@@ -1,0 +1,57 @@
+
+body {
+    background-color: #f0a3bbb5;
+
+    background-image: url("images/bg-pattern.png");
+
+    font-family: mv boli;
+    margin: 24px; 
+    color: #0000; 
+    
+}
+
+
+
+nav {
+    background-image: url("/home/student/Загрузки/Rectangle 7.png"); 
+    padding: 15px;              
+    margin-bottom: 25px;        
+    border-radius: 30px;       
+    text-align: center;         
+}
+
+
+nav a {
+    color: #000000;            
+    font-size: 23px;          
+    font-weight: bold;       
+    text-decoration: none;      
+    margin: 0 5px;              
+}
+
+
+nav a:hover {
+    color: #8b4513;             
+    text-decoration: underline;  
+}
+
+
+a {
+    color: #cc7f4a;            
+    text-decoration: underline;  
+}
+
+h1 {
+     color: #000000;            
+    font-size: 23px;          
+    font-weight: bold;       
+    text-decoration: none;      
+    margin:  5px; 
+}
+div {
+    color: #000000;            
+    font-size: 30px;          
+    font-weight: bold;
+    right: 50% inherit;       
+    
+}
